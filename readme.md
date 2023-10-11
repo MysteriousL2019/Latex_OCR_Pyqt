@@ -15,3 +15,9 @@ pip install -r requirements.txt
 
 * performance show
 <video src="iShot_2023-10-12_02.13.26.mp4" controls title="Title"></video>
+* using clipboard to show the result
+![Alt text](image-1.png)
+![Alt text](image-2.png)
+* easy to paste 
+![Alt text](image-3.png)
+* [video show](https://github.com/MysteriousL2019/Latex_OCR_Pyqt/issues/1#issue-1938460911)
