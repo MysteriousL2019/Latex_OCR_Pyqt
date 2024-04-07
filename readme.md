@@ -1,3 +1,11 @@
+# Download for macos 
+* download the macos_app.zip 
+* unzip then click the app
+* ![Alt text](image-4.png)
+* then click start to start the app
+* ![Alt text](image-5.png)
+* it is really easy to use.
+    * make a screen shot of the target formulas ( just need to make sure the screen shot is in the clipboard, it will automatically convert them into latex format.)
 ## A Pyqt program used to Latex Automatically Recognize
 * environment Python 3.10.13
     * recommend to install [miniconda](https://docs.conda.io/projects/miniconda/en/latest/)
